@@ -1,0 +1,10 @@
+*.pyc
+static/
+media/
+__pycache__
+MANIFEST
+remove_migrations.sh
+logs
+**/migrations/
+.vscode/settings.json
+**/migrations/*
