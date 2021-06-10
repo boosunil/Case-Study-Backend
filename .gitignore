@@ -1,6 +1,10 @@
 *.pyc
 static/
 media/
+crud/migrations
+charts/migrations
+crud/__pycache__
+charts/__pycache__
 __pycache__
 MANIFEST
 remove_migrations.sh
